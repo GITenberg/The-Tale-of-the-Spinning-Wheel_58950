@@ -1,0 +1,25 @@
+_repo: The-Tale-of-the-Spinning-Wheel_58950
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Vanderpoel, Emily Noyes
+    gutenberg_agent_id: '50227'
+    url: http://www.gutenberg.org/2009/agents/50227
+creator:
+  author:
+    agent_name: Buel, Elizabeth Cynthia Barney
+    gutenberg_agent_id: '50226'
+    url: http://www.gutenberg.org/2009/agents/50226
+description: ''
+gutenberg_issued: '2019-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58950'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Tale of the Spinning Wheel
+url: http://www.gutenberg.org/ebooks/58950
